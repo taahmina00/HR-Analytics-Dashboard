@@ -12,7 +12,7 @@ Analyze employee attrition, performance, and satisfaction levels to identify key
 
 ## 📁 Dataset
 
-**Source**: IBM HR Analytics Employee Attrition & Performance Dataset  
+**Source**: IBM HR Analytics Employee Attrition & Performance Dataset(Kaggle)  
 **Format**: CSV  
 **Size**: ~1,470 records with 35+ attributes
 
