@@ -1,27 +1,76 @@
-HR Analytics Dashboard
+# 📊 HR Analytics Dashboard
 
-Objective: Analyze employee attrition, performance, and satisfaction levels.
+A strategic Power BI dashboard designed to uncover why employees leave—and how to retain them. Built using IBM’s HR Analytics dataset, this project delivers actionable insights for HR teams and decision-makers.
 
-Dataset: IBM HR Analytics Dataset
+---
 
-Key Features:
-KPIs: Attrition Rate, Avg Tenure, Satisfaction Score
+## 🎯 Objective
 
-Visuals: Attrition by Department, Age Band, Job Role
+Analyze employee attrition, performance, and satisfaction levels to identify key drivers of turnover and support retention strategies.
 
-Slicers for department, gender, education
+---
 
-Skills: 
-Measure creation, data segmentation
+## 📁 Dataset
 
-🧾 Summary of the Dashboard
+**Source**: IBM HR Analytics Employee Attrition & Performance Dataset  
+**Format**: CSV  
+**Size**: ~1,470 records with 35+ attributes
 
-Business Question: Why are employees leaving the company?
+---
 
-Insights shown:
+## 🚀 Key Features
 
-Which departments have the highest attrition
+### 📌 KPIs
+- **Attrition Rate**
+- **Average Tenure**
+- **Satisfaction Score**
 
-Which age groups and job roles are more likely to leave
+### 📊 Visuals
+- Attrition by Department
+- Age Band Distribution
+- Job Role Breakdown
 
-The effect of income, satisfaction, and tenure on attrition
+### 🎛️ Interactive Slicers
+- Department  
+- Gender  
+- Education Level
+
+---
+
+## 🛠️ Skills Demonstrated
+
+- DAX Measure Creation  
+- Data Segmentation & Filtering  
+- Dashboard Design & Visualization Logic  
+- Insight Communication for Business Strategy
+
+---
+
+## 🧾 Dashboard Summary
+
+### 💼 Business Question
+Why are employees leaving the company?
+
+### 🔍 Insights Uncovered
+- Departments with the highest attrition rates  
+- Age groups and job roles most prone to turnover  
+- Impact of income, satisfaction, and tenure on attrition
+
+---
+
+## 🧰 Installation
+
+To view or modify the dashboard:
+
+1. **Download** the `.pbix` file from this repository.
+2. **Open** it using [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
+3. **Verify** that the IBM HR Analytics dataset is loaded correctly.  
+   If needed, update the data source path in Power BI.
+
+---
+
+## ▶️ Usage
+
+- Use slicers to filter by Department, Gender, and Education Level.
+- Hover over visuals for detailed tooltips.
+- Explore relationships between Income, Satisfaction, and Tenure to understand attrition drivers.
