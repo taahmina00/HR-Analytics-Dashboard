@@ -34,6 +34,7 @@ Analyze employee attrition, performance, and satisfaction levels to identify key
 - Department  
 - Gender  
 - Education Field
+- Marital Status
 
 ---
 
@@ -71,6 +72,6 @@ To view or modify the dashboard:
 
 ## ▶️ Usage
 
-- Use slicers to filter by Department, Gender, and Education Field.
+- Use slicers to filter by Department, Gender, Education Field and Martial Status.
 - Hover over visuals for detailed tooltips.
 - Explore relationships between Income, Satisfaction, and Tenure to understand attrition drivers.
